@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HibernationHack/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/HibernationHack/static/js/main.50f4bdad.chunk.js",
+    "main.js.map": "/HibernationHack/static/js/main.50f4bdad.chunk.js.map",
+    "runtime-main.js": "/HibernationHack/static/js/runtime-main.69399bc6.js",
+    "runtime-main.js.map": "/HibernationHack/static/js/runtime-main.69399bc6.js.map",
+    "static/js/2.eedec141.chunk.js": "/HibernationHack/static/js/2.eedec141.chunk.js",
+    "static/js/2.eedec141.chunk.js.map": "/HibernationHack/static/js/2.eedec141.chunk.js.map",
+    "index.html": "/HibernationHack/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "/HibernationHack/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eedec141.chunk.js.LICENSE.txt": "/HibernationHack/static/js/2.eedec141.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69399bc6.js",
+    "static/js/2.eedec141.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.50f4bdad.chunk.js"
+  ]
+}
